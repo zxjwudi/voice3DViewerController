@@ -17,6 +17,7 @@ public class Voice3DViewerController {
 	public static void main(String[] args) {
 		int actionId = 0;
 		Runtime rt = Runtime.getRuntime();
+		System.out.println("Please give me your order!");
 		try {		
 			Process pr = rt.exec("HVite.exe -C config_online -l * -p -50 -T 1 -t 250.0 -s 15  -H .\\macros -H .\\hmmdefs -w wdnet phone.dct zs_tied_tri4.tri4"); //‘À––cmd√¸¡Ó
 			//BufferedReader br = new BufferedReader(new InputStreamReader(pr.getInputStream()));
@@ -28,13 +29,12 @@ public class Voice3DViewerController {
 			String temp = "" ;
 			String action = " ";
 			while(null != s ){
-				if(!"".equals(s.trim()))  temp = s;
-			      
+				if(!"".equals(s.trim()))  temp = s;      
 			        String regex = "SENT-START (.*) SENT-END";
 			        Pattern pattern = Pattern.compile(regex);
 			        Matcher matcher = pattern.matcher(s);
 			        while (matcher.find()) {
-			            System.out.println(action = matcher.group(1));
+			            //System.out.println(action = matcher.group(1));
 			            switch (action) {
 			            case "…œ":
 			            	actionId = 1;
