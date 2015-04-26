@@ -1,0 +1,23 @@
+#Waveform capture
+SOURCERATE=625.0    #The direct audio with sample period 62.5 us
+SOURCEKIND=HAUDIO
+SOURCEFORMAT=HTK
+ENORMALISE=F
+USESILDET=T         #The silence detector is enabled and a measurement of the background speech/silence  levels should be made at start-up
+MEASURESIL=F
+OUTSILWARN=T        #Makes sure that a warning is printed when this silence measurement is being made
+
+TARGETKIND = MFCC_0_D_A
+TARGETRATE = 100000.0
+SAVEWITHCRC = T
+WINDOWSIZE = 250000.0
+USEHAMMING = T
+PREEMCOEF = 0.97
+NUMCHANS = 26
+CEPLIFTER = 22
+NUMCEPS = 12
+
+STARTWORD= !ENTER
+ENDWORD= !EXIT
+SILNAME= sil
+SPNAME= sp

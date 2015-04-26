@@ -1,0 +1,622 @@
+ａ ge ei4
+ｂ b i4
+ｃ c if1
+ｄ d i4
+ｅ y i4
+ｆ ga ai2 f u5
+ｇ j i4
+ｈ ge ei2 ch ib1
+ｉ ga a4 ga ai1
+ｊ j ie1
+ｋ k ai1
+ｌ ga ai2 ga ao4
+ｍ ga ai2 m u5
+ｎ ge en1
+ｏ go ou1
+ｐ p i4
+ｑ k iu4
+ｒ ga a1 ger er2
+ｓ ga ai2 s i5
+ｔ t i4
+ｕ y ou1
+ｖ w ei1
+ｗ d a1 b u5 y ou5
+ｘ ga ai2 k e1 s i5
+ｙ w a4 ga ai1
+ｚ z ei4 
+ＩＰ ga ai1 p i4
+３Ｄ频道 s an1 d i4 p in2 d ao4
+ＡＥＳ加密 ge ei4 y i4 ga ai2 s i5 j ia1 m i4
+ＡＧＣ状态 ge ei4 j i4 c if1 zh uang4 t ai4
+ＥＴＳＩ y i4 t i4 ga ai2 s i5 ga a4 ga ai1
+ＦＥＣ ga ai2 f u5 y i4 c if1
+ＦＥＣ加强 ga ai2 f u5 y i4 c if1 j ia1 q iang2
+ＦＥＣ增强 ga ai2 f u5 y i4 c if1 z eng1 q iang2
+ＧＫ j i4 k ai1
+Ｇ点 j i4 d ian3
+Ａ ge ei4
+Ｕ y ou1
+Ｈ点 ge ei2 ch ib1 d ian3
+ＩＴＲ６ ga a4 ga ai1 t i4 ga a1 ger er2 l iu4
+ＭＴＵ ga ai2 m u5 t i4 y ou1
+ＮＡＴ ge en1 ge ei4 t i4
+ＴＯＳ t i4 go ou1 ga ai2 s i5
+ＶＧＡ输出 w ei1 j i4 ga ai2 sh u1 ch u1
+ＶＧＡ作为主视频源 w ei1 j i4 ga ai2 z uo4 w ei2 zh u3 sh ib4 p in2 y van2
+ＡＮＮＯＵＮＣＥＭＥＮＴ ge e3 n a1 w eng4 s if3 m en4 t e4
+ＡＴ＆Ｔ ga ai2 t i4 ga an4 d e1 t i4
+ＡＵＳＴＲＡＬＩＡ ga ao1 s if1 ch uai1 l i4 y a4
+ＢＯＸ b ao4 k e4  s if5
+ＣＣＴＶ c if1 c if1 t i1 w ei1
+ＣＵＳＴＯＭ k a1 s if3 t e4 m u5
+ＤＮＣＰ d i1 ge en1 c if1 p i4
+ＤＮＳ d i1 ge en1 ga ai2 s i5
+ＤＴＶ楼视 d i1 t i1 w ei1 l ou2 sh ib4
+ＤＴＶＳＨＵ码影院 d i1 t i1 w ei1 sh u4 m a3 y ing3 y van4
+ＥＮＧＬＩＳＨ y ing1 g e3 l i4 sh i5
+ＥＴＨ y i1 t i1 ge ei2 ch ib4
+ＦＥＴＥＸ ga ai2 f u5 y i1 t i1  y i1 ga ai2 k e1 s i5
+ＩＰ地址 ga a4 ga ai1 p i4 d e5 zh ib3
+ＩＳＤＮ ga ai4 ga ai2 s i5 d i4 ge en1
+ＩＴＡＬＹ y i1 t e4 l i4
+ＪＡＰＡＮ j ie3 p an4
+ＭＡＣ m ei4 k e4
+ＮＡＴ n ai4 t e4
+ＮＡＴＩＯＮＡＬ n ai1 sh en4 n ou5
+ＮＡＴ公网 n ai4 t e4 g ong1 w ang3
+ＮＥＷＳ n iu4 z if1
+ＮＴＳＣ ge en1 t i1 ga ai2 s i5 c if1
+ＰＡＬ p i2 ge ei4 ga ai2 ga ao4
+ＰＩＮＧ操作 p i4 y in1 c ao1 z uo4
+ＰＰＰＯＥ p i1 p i1 p i1 go ou1 y i4
+ＰＳＩＮ p i1 ga ai2 s i5 ga ai1 ge en1
+ＱＯＳ k iu4 go ou1 ga ai2 s
+SENT-START [] sil
+SENT-END [] sil
+SILENCE [] sil
+ＳＩＰ ga ai2 s i5 ga ai4 p i4
+ＴＡＩＷＡＮ t ai2 w an1
+ＴＣＰ t i1 c if1 p i4
+ＴＶＡＶ t i1 w ei1 ge ei1 w ei1
+ＵＤＰ y ou1 d i1 p i1
+ＶＢＯＸ w ei1 b ao4 k e4  s i5
+ＶＧＡ w ei1 j i4 ge ei4
+ＶＩＤＥＯ w ei1 d i1 go ou5
+ＰＳＴＮ p i1 ga ai2 s i5 t i1 ge en1
+安徽 ga an1 h ui1
+安全 ga an1 q van2
+按 ga an4
+八 b a1
+八加二 b a1 j ia1 ger er4
+百分之 b ai3 f en1 zh ib1
+百分之七十 b ai3 f en1 zh ib1 q i1 sh ib2
+百分之３十 b ai3 f en1 zh ib1 s an1 sh ib2
+版本文件路径 b an3 b en3 w en2 j ian4 l u4 j ing4
+半 b an4
+绑定 b ang3 d ing4
+保存 b ao3 c un2
+保存当前 b ao3 c un2 d ang1 q ian2
+饱和度 b ao3 h e2 d u4
+北京 b ei3 j ing1
+背景颜色 b ei1 j ing3 y an2 s e4
+本地 b en3 d i4
+本地摄像头 b en3 d i4 sh e4 x iang4 t ou2
+本端 b en3 d uan1
+编号 b ian1 h ao4
+编辑 b ian1 j i2
+标准 b iao1 zh un3
+播放 b o1 f ang4
+拨号 b o1 h ao4
+不 b u4
+不显示音量 b u4 x ian3 sh ib4 y in1 l iang4
+不支持流媒体组播 b u4 zh ib1 ch ib2 l iu2 m ei2 t i3 z u3 b o1
+财经 c ai2 j ing1
+彩票 c ai3 p iao4
+菜单 c ai4 d an1
+参ＳＨＵ c an1 sh u4
+测试 c e4 sh ib4
+查看 ch a2 k an4
+查询 ch a2 x vn2
+查找 ch a2 zh ao3
+车迷 ch e1 m i2
+车市潮流 ch e1 sh ib4 ch ao2 l iu2
+城市 ch eng2 sh ib4
+橙 ch eng2
+赤 ch ib4
+串口一摄像机类型 ch uan4 k ou3 y i1 sh e4 x iang4 j i1 l ei4 x ing2
+串口一视频输入端口 ch uan4 k ou3 y i1 sh ib4 p in2 sh u1 r u4 d uan1 k ou3
+从ＣＯＭ二 c ong2 k ao4 m u5 ger er4
+从ＣＯＭ一 c ong2 k ao4 m u5 y i1
+打开 d a3 k ai1
+大 d a4
+大小 d a4 x iao3
+大众影院 d a4 zh ong4 y ing3 y van4
+带宽保持 d ai4 k uan1 b ao3 ch ib2
+带宽分配 d ai4 k uan1 f en1 p ei4
+代理 d ai4 l i3
+ＤＡＩ机 d ai4 j i1
+ＤＡＩ机模式 d ai4 j i1 m o2 sh ib4
+单 d an1
+单点 d an1 d ian3
+单频双显 d an1 p in2 sh uang1 x ian3
+当前配置另存为 d ang1 q ian2 p ei4 zh ib4 l ing4 c un2 w ei2
+到地址簿 d ao4 d i4 zh ib3 b u4
+登录ＭＩＮＧ d eng1 l u4 m ing2
+地址 d i4 zh ib3
+地址簿 d i4 zh ib3 b u4
+地址或号码 d i4 zh ib3 h uo4 h ao4 m a3
+第 d i4
+第二路视频 d i4 ger er4 l u4 sh ib4 p in2
+第一 d i4 y i1
+第一导视 d i4 y i1 d ao3 sh ib4
+第一路视频 d i4 y i1 l u4 sh ib4 p in2
+点 d ian3
+点播 d ian3 b o1
+点对点 d ian3 d ui4 d ian3
+电量 d ian4 l iang4
+电视彩条 d ian4 sh ib4 c ai3 t iao2
+电视广播 d ian4 sh ib4 ga an3 b o1
+电视剧 d ian4 sh ib4 j v4
+电视游戏 d ian4 sh ib4 y ou2 x i4
+电视杂志 d ian4 sh ib4 z a2 zh ib4
+电影 d ian4 y ing3
+电源 d ian4 y van2
+调焦 t iao2 j iao1
+丢包补偿 d iu1 b ao1 b u3 ch ang2
+丢包率上报阈值 d iu1 b ao1 l v4 sh ang3 b ao4 y v4 zh ib2
+东方 d ong1 f ang1
+东方财经 d ong1 f ang1 c ai2 j ing1
+东南 d ong1 n an2
+动漫秀场 d ong4 m an4 x iu4 ch ang2
+动态速率调ＺＨＥＮＧ d ong4 t ai4 s u4 l v4 t iao2 zh eng3
+都市 d u1 sh ib4
+都市搜索 d u1 sh ib4 s ou1 s uo3
+端口 d uan1 k ou3
+短ＸＩＡＯ息 d uan3 x iao1 x i1
+对比度 d ui4 b i3 d u4
+对端ＩＰ地址 d ui4 d uan1 ga a4 ga ai1 p i4 d i4 zh ib3
+多 d uo1
+多点 d uo1 d ian3
+多画面ＳＨＵ d uo1 h ua4 m ian4 sh u4
+二 ger er4
+二百五十六 ger er4 b ai3 w u3 sh ib2 l iu4
+二六３ ger er4 l iu4 s an1
+二六四 ger er4 l iu4 s if4
+二六一 ger er4 l iu4 y i1
+二十 ger er4 sh ib2
+二十八 ger er4 sh i5 b a1
+二十四 ger er4 sh i5 s if4
+发端 f a1 d uan1
+发送 f a1 s ong4
+发现之旅 f a1 x ian4 zh ib1 l v3
+发言 f a1 y an2
+法制天地 f a3 zh ib4 t ian1 d i4
+ＦＡＮ向 f an3 x iang4
+方案 f ang1 ga an4
+方向 f ang1 x iang4
+分组 f en1 z u3
+风尚购物 f eng1 sh ang4 g ou4 w u4
+风云 f eng1 y vn2
+风云音乐 f eng1 y vn2 y in1 l e4
+风云足球 f eng1 y vn2 z u2 q iu2
+否 f ou3
+服务器 f u2 w u4 q i4
+服务质量 f u2 w u4 zh ib4 l iang4
+辅 f u3
+负 f u4
+甘肃 g an1 s u4
+高ＥＲ夫网球 g ao1 ger er3 f u1 w ang3 q iu2
+高级 g ao1 j i2
+高清 g ao1 q ing1
+告警音 g ao4 j ing3 y in1
+格式 g e2 sh ib4
+更好的 g eng1 h ao3 d e5
+更快的 g eng1 k uai4 d e5
+工作 g ong1 z uo4
+公共 g ong1 g ong4
+公网 g ong1 w ang3
+股票 g u3 p iao4
+股市 g u3 sh ib4
+挂断 g ua4 d uan4
+挂断全部 g ua4 d uan4 q van2 b u4
+关 g uan1
+关闭 g uan1 b i4
+关键字 g uan1 j ian4 z if4
+光圈 g uang1 q van1
+广东 g uang3 d ong1
+广西 g uang3 x i1
+贵州 g ui4 zh ou1
+滚动 g un3 d ong4
+滚动速度 g un3 d ong4 s u4 d u4
+国际 g uo2 j i4
+好享购物 h ao3 x iang3 g ou4 w u4
+号码 h ao4 m a3
+河北 h e2 b ei3
+河南 h e2 n an2
+黑龙江 h ei1 l ong2 j iang1
+横幅 h eng2 f u2
+横滚 h eng2 g un3
+红外遥控输入 h ong1 w ai4 y ao2 k ong4 sh u1 r u4
+后退 h ou4 t ui4
+呼出 h u1 ch u1
+呼叫 h u1 j iao4
+呼叫记录 h u1 j iao4 j i4 l u4
+呼叫协议首选项 h u1 j iao4 x ie2 y i4 sh ou3 x van3 x iang4
+呼入 h u1 r u4
+湖北 h u2 b ei3
+湖南 h u2 n an2
+互动切换 h u4 d ong4 q ie1 h uan4
+画面 h ua4 m ian4
+画中画 h ua4 zh ong1 h ua4
+欢笑 h uan1 x iao4
+环回 h uan2 h ui2
+环球奇观 h uan2 q iu2 j i1 g uan1
+黄 h uang2
+回复出厂 h ui2 f u4 ch u1 ga an1
+回看 h ui2 k an1
+回声抵ＸＩＡＯ h ui2 sh eng1 d i3 x iao1
+会议 h ui4 y i4
+吉林 j i2 l in2
+极速ＱＩ车 j i2 s u4 q i4 ch e1
+级别 j i2 b ie2
+记录 j i4 l u4
+家庭健康 j ia1 t ing2 j ian4 k ang1
+家庭理财 j ia1 t ing2 l i3 c ai2
+加 j ia1
+加一 j ia1 y i1
+价格服务 j ia4 g e1 f u2 w u4
+检测 j ian3 c e4
+检测时间间隔 j ian3 c e4 sh ib2 j ian1 j ian1 g e2
+减 j ian3
+健康导医 j ian4 k ang1 d ao3 y i1
+江苏 j iang1 s u1
+江西 j iang1 x i1
+交换机协议 j iao1 h uan4 j i1 x ie2 y i4
+角 j iao3
+教ＫＥ j iao4 k e1
+教ＹＵ j iao4 y v4
+节目搜索 j ie1 m u4 s ou1 s uo3
+金陵热播 j in1 l ing2 r e4 b o1
+金陵文教 j in1 l ing2 w en2 j iao4
+金色频道 j in1 s e4 p in2 d ao4
+金鹰 j in1 y ing1
+ＪＩＮ止 j in4 zh ib3
+劲爆体ＹＵ j in4 b ao4 t i1 y v4
+静态 j ing4 t ai4
+静音 j ing4 y in1
+静止 j ing4 zh ib3
+镜头 j ing4 t ou2
+九 j iu3
+九百二 j iu3 b ai3 ger er4
+九十二 j iu3 sh i5 ger er4
+旧 j iu4
+矩形 j v3 x ing2
+剧场 j v4 ch ang3
+军事 j vn1 sh ib4
+卡酷 k a3 k u4
+卡通 k a3 t ong1
+开 k ai1
+开机自动呼叫 k ai1 j i1 z if4 d ong4 h u1 j iao4
+开始 k ai1 sh ib3
+科教 k e1 j iao4
+可选 k e3 x van3
+控制 k ong4 zh ib4
+快捷键 k uai4 j ie2 j ian4
+快进 k uai4 j in4
+快乐宠物 k uai4 l e4 ch ong3 w u4
+快乐购 k uai4 l e4 g ou4
+快速 k uai4 s u4
+快退 k uai4 t ui4
+来电 l ai2 d ian4
+蓝 l an2
+老年福 l ao3 n ian2 f u2
+类型 l ei4 x ing2
+梨园 l i2 y van2
+联系人 l ian2 x i4 r en2
+亮度 l iang4 d u4
+靓妆 j ing4 zh uang1
+辽宁 l iao2 n ing2
+零 l ing2
+零二十四 l ing2 ger er4 sh ib2 s if4
+铃声 l ing2 sh eng1
+铃音 l ing2 y in1
+留学世界 l iu2 x ve2 sh ib4 j ie4
+流畅 l iu2 ch ang4
+流媒体 l iu2 m ei2 t i1
+流媒体组播 l iu2 m ei2 t i1 z u3 b o1
+六 l iu4
+旅行天地 l v3 x ing2 t ian1 d i4
+旅游 l v3 y ou2
+绿 l v4
+码率 m a3 l v4
+ＭＡＮ速 m an4 s u4
+美食搜索 m ei3 sh ib2 s ou1 s uo3
+魅力江苏 m ei4 l i4 j iang1 s u1
+魅力音乐 m ei4 l i4 y in1 y ve4
+密码 m i4 m a3
+模式 m o2 sh ib4
+南京 n an2 j ing1
+内容 n ei4 r ong2
+内网 n ei4 w ang3
+内置 n ei4 zh ib4
+能力 n eng2 l i4
+年 n ian2
+宁夏 n ing2 x ia4
+农业 n ong2 y e4
+欧洲足球 go ou1 zh ou1 z u2 q iu2
+配置 p ei4 zh ib4
+偏移 p ian1 y i2
+频道 p in2 d ao4
+七 q i1
+七百六十八 q i1 b ai3 l iu4 sh ib2 b a1
+七彩戏剧 q i1 c ai3 x i4 j v4
+七二八 q i1 ger er4 b a1
+七二二 q i1 ger er4 ger er4
+七十七杠八十八杠九十九杠零零杠零零 q i1 sh ib2 q i1 g ang4 b a1 sh ib2 b a1 g ang4 j iu3 sh ib2 j iu3 g ang4 l ing2 l ing2 g ang4 l ing2 l ing2
+七一一 q i1 y i1 y i1
+启动双流 q i3 d ong4 sh uang1 l iu2
+启用 q i3 y ong4
+启用系统管理员 q i3 y ong4 x i4 t ong3 g uan3 l i3 y van2
+切换到多点 q ie1 h uan4 d ao4 d uo1 d ian3
+切换显示 q ie1 h uan4 x ian3 sh ib4
+青 q ing1
+青海 q ing1 h ai3
+清空 q ing1 k ong1
+清空日志 q ing1 k ong1 r ib4 zh ib4
+清晰 q ing1 x i1
+区分服务 q v1 f en1 f u2 w u4
+区号 q v1 h ao4
+取位 q v3 w ei4
+全 q van2
+全部 q van2 b u4
+全纪实 q van2 j i4 sh ib2
+全选 q van2 x van3
+缺省速率 q ve1 sh eng3 s u4 l v4
+确定 q ve4 d ing4
+确认 q ve4 r en4
+日期 r ib4 q i1
+日月 r ib4 y ve4
+日志 r ib4 zh ib4
+软件下载 r uan3 j ian4 x ia4 z ai3
+３ s an1
+３百八十四 s an1 b ai3 b a1 sh ib2 s if4
+３二３ s an1 ger er4 s an1
+３角形 s an1 j iao3 x ing2
+３十 s an1 sh ib2
+山东 sh an1 d ong1
+山西 sh an1 x i1
+上 sh ang4
+上移 sh ang4 y i2
+少儿 sh ao4 ger er2
+摄像机 sh e4 x iang4 j i1
+摄像头 sh e4 x iang4 t ou2
+设置 sh e4 zh ib4
+深圳电视台 sh en1 zh en4 d ian4 sh ib4 t ai1
+声道 sh eng1 d ao4
+生活 sh eng1 h uo2
+生活健康 sh eng1 h uo2 j ian4 k ang1
+生活时尚 sh eng1 h uo2 sh ib2 sh ang4
+ＳＨＥＮＧ级方式 sh eng1 j i2 f ang1 sh ib4
+十 sh ib2
+十八 sh ib2 b a1
+十二 sh ib2 ger er4
+十六比九 sh ib2 l iu4 b i3 j iu3
+时长 sh ib2 ch ang2
+时代出行 sh ib2 d ai4 ch u1 x ing2
+时代家具 sh ib2 d ai4 j ia1 j v4
+时代美食 sh ib2 d ai4 m ei3 sh ib2
+时间 sh ib2 j ian1
+世界地理 sh ib4 j ie4 d i4 l i3
+是 sh ib4
+视频 sh ib4 p in2
+视频参ＳＨＵ缺省 sh ib4 p in2 c an1 sh u4 q ve1 sh eng3
+视频和音频 sh ib4 p in2 h e2 y in1 p in2
+视频缺省输入端口 sh ib4 p in2 q ve1 sh eng3 sh u1 r u4 d uan1 k ou3
+视频源选择 sh ib4 p in2 y van2 x van3
+收端 sh ou1 d uan1
+收ＴＩＮＧ sh ou1 t ing1
+手工 sh ou3 g ong1
+输出 sh u1 ch u1
+输出视频制式 sh u1 ch u1 sh ib4 p in2 zh ib4 sh ib4
+输出特性等高比 sh u1 ch u1 t e4 x ing4 d eng3 g ao1 b i3
+输入 sh u1 r u4
+输入输出 sh u1 r u4 sh u1 ch u1
+输入音频 sh u1 r u4 y in1 p in2
+输入源 sh u1 r u4 y van2
+书画 sh u1 h ua4
+ＳＨＵ据 sh u4 j v4
+ＳＨＵ码影院 sh u4 m a3 y ing3 y van4
+ＳＨＵ字电视指南 sh u4 z if4 d ian4 sh ib4 zh ib3 n an2
+双工 sh uang1 g ong1
+双流 sh uang1 l iu2
+双流自动发送 sh uang1 l iu2 z if4 d ong4 f a1 s ong4
+双视频 sh uang1 sh ib4 p in2
+四 s if4
+四比３ s if4 b i3 s an1
+四川 s if4 ch uan1
+四海钓鱼 s if4 h ai3 d iao4 y v2
+四加３ s if4 j ia1 s an1
+四六零 s if4 l iu4 l ing2
+速度 s u4 d u4
+速率 s u4 l v4
+缩放 s uo1 f ang4
+所有 s uo2 y ou3
+套 t ao4
+特服号 t e4 f u2 h ao2
+体ＹＵ t i3 y v4
+天津 t ian1 j in1
+天气资讯 t ian1 q i4 z if1 x vn4
+天元围棋 t ian1 y van2 w ei2 q i2
+添加 t ian1 j ia1
+停止 t ing2 zh ib3
+通ＧＵＯ终端 t ong1 g uo1 zh ong1 d uan1
+透明 t ou4 m ing2
+图标 t u2 b iao1
+退出 t ui4 ch u1
+外线拨号前缀 w ai4 x ian4 b o1 h ao2 q ian2 zh ui4
+网管 w ang3 g uan3
+网口 w ang3 k ou3
+网络 w ang3 l uo4
+网络地址 w ang3 l uo4 d i5 zh ib3
+网络丢包 w ang3 l uo4 d iu1 b ao1
+网络丢包上报 w ang3 l uo4 d iu1 b ao1 sh ang4 b ao4
+网络棋牌 w ang3 l uo4 q i2 p ai2
+维护 w ei2 h u4
+未接 w ei4 j ie1
+位置 w ei4 zh ib4
+卫生健康 w ei4 sh eng1 j ian4 k ang1
+卫视 w ei4 sh ib4
+文字 w en2 z if4
+文字大小 w en2 z if4 d a4 x iao3
+无 m o2
+无线麦克 m o2 x ian4 m ai4 k e4
+五 w u3
+五百３十六 w u3 b ai3 s an1 sh ib2 l iu4
+五百一十二 w u3 b ai3 y i1 sh ib2 ger er4
+西藏 x i1 z ang4
+喜爱 x i3 ga ai4
+系统 x i4 t ong3
+戏曲 x i4 q v3
+下 x ia4
+下移 x ia4 y i2
+先锋记录 x ian1 f eng1 j i4 l u4
+先锋乒羽 x ian1 f eng1 p ing1 y v3
+显示 x ian3 sh ib4
+线路 x ian4 l u4
+向后查询 x iang4 h ou4 ch a2 x vn2
+向前查询 x iang4 q ian2 ch a2 x vn2
+向右 x iang4 y ou4
+向左 x iang4 z uo3
+小 x iao3
+小时制 x iao3 sh ib2 zh ib4
+效ＧＵＯ x iao4 g uo3
+新 x in1
+新动漫 x in1 d ong4 m an4
+新疆 x in1 j iang1
+新闻 x in1 w en2
+新娱乐 x in1 y v2 l e4
+信息 z if1 x vn4
+修改 x iu1 g ai3
+序号 x v4 h ao4
+选项 x van3 x iang4
+选择 x van3 z e2
+延迟 y an2 ch ib2
+颜色 y an2 s e4
+央广购物 y ang1 g uang3 g ou4 w u4
+央视 y ang1 sh ib4
+央视高清 y ang1 sh ib4 g ao1 q ing1
+央视购物 y ang1 sh ib4 g ou4 w u4
+央视怀旧 y ang1 sh ib4 h uai2 j iu4
+央视精品 y ang1 sh ib4 j ing1 p in3
+扬声器 y ang2 sh eng1 q i4
+遥控器 y ao2 k ong4 q i4
+一 y i1
+一百 y i4 b ai3
+一百五十二 y i1 b ai3 w u3 sh ib2 ger er4
+一般 y i4 b an1
+一千 y i4 q ian1
+已选 y i3 x van3
+以上混合 y i3 sh ang4 h un4 h e2
+以太网口 y i3 t ai4 w ang3 k ou3
+音乐 y in1 y ve4
+音量 y in1 l iang4
+音频 y in1 p in2
+音频口 y in1 p in2 k ou3
+音频硬件 y in1 p in2 y ing4 j ian4
+隐藏 y in3 c ang2
+影视 y ing3 sh ib4
+用户管理 y ong4 h u4 g uan3 l i3
+优购物 y ou1 g ou4 w u4
+优漫 y ou1 m an4
+优漫卡通 y ou1 m an4 k a3 t ong1
+优先级 y ou1 x ian1 j i2
+悠悠宝贝 y ou1 y ou1 b ao3 b ei4
+邮件 y ou2 j ian4
+游戏 y ou2 x i4
+游戏风云 y ou2 x i1 f eng1 y vn2
+游戏竞技 y ou2 x i1 j ing4 j i4
+右 y ou4
+娱乐 y v2 l e4
+雨花新闻 y v3 h ua1 x in1 w en2
+雨花综艺 y v3 h ua1 z ong4 y i4
+语言 y v3 y an2
+遇忙提示 y v4 m ang2 t i1 sh ib4
+预留频道 y v4 l iu2 p in2 d ao4
+源 y van2
+远端 y van3 d uan1
+月日 y ve4 r ib4
+云南 y vn2 n an2
+允许远程 y vn3 x v3 y van3 ch eng2
+孕ＹＵ指南  y vn4 y v4 zh ib3 n an2
+载入终端 z ai3 r u4 zh ong1 d uan1
+暂停 z an4 t ing2
+早期教ＹＵ z ao3 q i1 j iao4 y v4
+增强 z eng1 q iang2
+增益 z eng1 y i4
+兆 zh ao4
+召集 zh ao4 j i2
+浙江 zh e4 j iang1
+诊断 zh en3 d uan4
+ＺＨＥＮＧ向 zh eng1 x iang4
+政务 zh eng4 w u4
+职业指南 zh ib2 y e4 zh ib3 n an2
+指定按键 zh ib1 d ing4 ga an4 j ian4
+只组播视频 zh ib1 z u3 b o1 sh ib4 p in2
+只组播音频 zh ib1 z u3 b o1 y in1 p in2
+置换聚焦 zh ib4 h uan4 j v4 j iao1
+中 zh ong1
+中断能力 zh ong1 d uan4 n eng2 l i4
+中国 zh ong1 g uo2
+中国气象 zh ong1 g uo2 q i4 x iang4
+中华美食 zh ong1 h ua1 m ei3 sh ib2
+中文 zh ong1 w en2
+中文国际 zh ong1 w en2 g uo2 j i4
+中央 zh ong1 y ang1
+中央台 zh ong1 y ang1 t ai1
+终端 zh ong1 d uan1
+重启系统 ch ong2 q i3 x i4 t ong3
+重庆 ch ong2 q ing4
+主 zh u3
+主机 zh u3 j i1
+主叫呼集 zh u3 j iao4 h u1 j i2
+注册 zh u4 c e4
+转向 zh uan3 x iang4
+状态 zh uang4 t ai4
+资讯 z if1 x vn4
+紫 z if3
+子网掩码 z if3 w ang3 y an3 m a3
+自动 z if4 d ong4
+自动ＳＨＥＮＧ降 z if4 d ong4 sh eng1 j iang4
+自动应答 z if4 d ong4 y ing1 d a1
+自用自动噪声抑制 z if4 y ong4 z if4 d ong4 z ao4 sh eng1 y i4 zh ib4
+字幕 z if4 m u4
+字幕预览端口 z if4 m u4 y v4 l an3 d uan1 k ou3
+综合 z ong1 h e2
+综艺 z eng4 y i4
+纵滚 z ong4 g un3
+组播 z u3 b o1
+组播端口号 z u3 b o1 d uan1 k ou3 h ao2
+最大 z ui4 d a4
+最低 z ui4 d i1
+最小 z ui4 x iao3
+左 z uo3
+的 d e1
+Ｂ一 b i4 y i1
+Ｂ二 b i4 ger er4
+二五 ger er4 w u3
+ＶＩＤＥＯＩＮ w ei1 d i1 go ou5 y in4
+ＳＶＩＤＥＯ ga ai2 s i5 w ei1 d i1 go ou5
+本地ＲＴＰ全部 b en3 d i4 ga a1 ger er2 t i4 p i4 q van2 b u4
+ＤＨＣＰ d i4 ge ei2 ch ib1 c if1 p i4
+百 b ai3
+Ｈ点３二３ ge ei2 ch ib1 d ian3 s an1 ger er4 s an1
+ＡＧＣ ge ei4 j i4 c if4
+ＭＩＮＧ m ing2
+ＭＩＮＧ称 m ing2 ch eng1
+称 ch eng1
+删ＣＨＵ sh an1 ch u2
+删 sh an1
+息 x i1
+指南 zh ib3 n an2
+!ENTER [] sil
+!EXIT [] sil

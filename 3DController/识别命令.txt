@@ -1,0 +1,2 @@
+在线识别命令：
+HVite -C config_online -l * -p -50 -T 1 -t 250.0 -s 15  -H .\macros -H .\hmmdefs -w wdnet phone.dct zs_tied_tri4.tri4
