@@ -12,13 +12,13 @@ public class Voice3DViewerController {
 	public final static int END_MARK = 0;
 
 	/**
-	 * Ê¹ï¿½ï¿½Runtimeï¿½ï¿½ï¿½ï¿½ï¿½execï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cmdï¿½ï¿½ï¿½î¡£
+	 * Ê¹ÓÃRuntime¶ÔÏóµÄexec·½·¨£¬ÔËĞĞcmdÃüÁî¡£
 	 */
 	public static void main(String[] args) {
 		int actionId = 0;
 		Runtime rt = Runtime.getRuntime();
 		try {		
-			Process pr = rt.exec("HVite.exe -C config_online -l * -p -50 -T 1 -t 250.0 -s 15  -H .\\macros -H .\\hmmdefs -w wdnet phone.dct zs_tied_tri4.tri4"); //ï¿½ï¿½ï¿½ï¿½cmdï¿½ï¿½ï¿½ï¿½	
+			Process pr = rt.exec("HVite.exe -C config_online -l * -p -50 -T 1 -t 250.0 -s 15  -H .\\macros -H .\\hmmdefs -w wdnet phone.dct zs_tied_tri4.tri4"); //ÔËĞĞcmdÃüÁî	
 			while(true){
 		BufferedReader br = new BufferedReader(new InputStreamReader(pr.getInputStream()));
 			String s = br.readLine();
@@ -36,34 +36,34 @@ public class Voice3DViewerController {
 			        while (matcher.find()) {
 			           System.out.println(action = matcher.group(1));
 			            switch (action) {
-			            case "ä¸Š":
+			            case "ÉÏ":
 			            	actionId = 1;
 			            	System.out.println(actionId);break;
-			            case "ä¸‹":
+			            case "ÏÂ":
 			            	actionId = 2;
 			            	System.out.println(actionId);break;
-			            case "å·¦":
+			            case "×ó":
 			            	actionId = 3;
 			            	System.out.println(actionId);break;
-			            case "å³":
+			            case "ÓÒ":
 			            	actionId = 4;
 			            	System.out.println(actionId);break;
-			            case "ä¸Šç§»":
+			            case "ÉÏÒÆ":
 			            	actionId = 5;
 			            	System.out.println(actionId);break;
-			            case "ä¸‹ç§»":
+			            case "ÏÂÒÆ":
 			            	actionId = 6;
 			            	System.out.println(actionId);break;
-			            case "å‘å·¦":
+			            case "Ïò×ó":
 			            	actionId = 7;
 			            	System.out.println(actionId);break;
-			            case "å‘å³":
+			            case "ÏòÓÒ":
 			            	actionId = 8;
 			            	System.out.println(actionId);break;
-			            case "å°":
+			            case "´ó":
 			            	actionId = 9;
 			            	System.out.println(actionId);break;
-			            case "å¤§":
+			            case "Ğ¡":
 			            	actionId = 10;
 			            	System.out.println(actionId);break;
 			            default:break;
@@ -75,9 +75,9 @@ public class Voice3DViewerController {
 			}
 			}
 			//br.close();
-			//ï¿½ï¿½ï¿½Âµï¿½Ç°ï¿½ß³ÌµÈ´ï¿½ï¿½ï¿½ï¿½ï¿½Òªï¿½ï¿½Ò»Ö±Òªï¿½Èµï¿½ï¿½É¸ï¿½ Process ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½Ä½ï¿½ï¿½ï¿½Ñ¾ï¿½ï¿½ï¿½Ö¹ï¿½ï¿½
+			//µ¼ÖÂµ±Ç°Ïß³ÌµÈ´ı£¬Èç¹û±ØÒª£¬Ò»Ö±ÒªµÈµ½ÓÉ¸Ã Process ¶ÔÏó±íÊ¾µÄ½ø³ÌÒÑ¾­ÖÕÖ¹¡£
 			pr.waitFor(); 
-			//ï¿½ï¿½ Process ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½Ó½ï¿½ÌµÄ³ï¿½ï¿½ï¿½Öµï¿½ï¿½ï¿½ï¿½İ¹ï¿½ï¿½ï¿½Öµ 0 ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½Ö¹ï¿½ï¿½
+			//´Ë Process ¶ÔÏó±íÊ¾µÄ×Ó½ø³ÌµÄ³ö¿ÚÖµ¡£¸ù¾İ¹ßÀı£¬Öµ 0 ±íÊ¾Õı³£ÖÕÖ¹¡£
 			if (END_MARK == pr.exitValue()) {
 				JOptionPane.showMessageDialog(null, temp );
 			}
